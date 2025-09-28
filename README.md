@@ -14,7 +14,7 @@ Access the fully functional web application deployed on Hugging Face Spaces: [**
 
 ### **Project Resources**
 
-The complete implementation includes both educational materials and production-ready code. The Jupyter notebook provides a comprehensive walkthrough of multiple linear regression concepts with detailed explanations and visualizations, available at [Mulitple-Linear-Regression.ipynb](https://github.com/giodesi/Multiple_Linear_Regression/blob/main/Mulitple-Linear-Regression.ipynb). The source code for the Streamlit web application can be found in [app.py](https://github.com/giodesi/Multiple_Linear_Regression/blob/main/app.py).
+The complete implementation includes both educational materials and production-ready code. The Jupyter notebook provides a comprehensive walkthrough of multiple linear regression concepts with detailed explanations and visualizations, available at [Mulitple-Linear-Regression.ipynb](https://github.com/giodesi/Multiple-Linear-Regression/blob/main/Mulitple-Linear-Regression.ipynb). The source code for the Streamlit web application can be found in [app.py](https://github.com/giodesi/Multiple-Linear-Regression/blob/main/app.py).
 
 ## **Project Structure**
 
