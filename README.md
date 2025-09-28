@@ -10,11 +10,11 @@ The implementation focuses on accessibility and generalization, enabling users t
 
 ### **Live Application**
 
-Access the fully functional web application deployed on Hugging Face Spaces: [**Multiple Linear Regression App**](https://www.google.com/search?q=https://huggingface.co/spaces/giodesi/Multiple_Linear_Regression)
+Access the fully functional web application deployed on Hugging Face Spaces: [**Multiple Linear Regression App**](https://huggingface.co/spaces/giodesi/Multiple_Linear_Regression)
 
 ### **Project Resources**
 
-The complete implementation includes both educational materials and production-ready code. The Jupyter notebook provides a comprehensive walkthrough of multiple linear regression concepts with detailed explanations and visualizations, available at [Mulitple-Linear-Regression.ipynb](https://www.google.com/search?q=https://github.com/giodesi/Multiple_Linear_Regression/blob/main/Mulitple-Linear-Regression.ipynb). The source code for the Streamlit web application can be found in [app.py](https://www.google.com/search?q=https://github.com/giodesi/Multiple_Linear_Regression/blob/main/app.py).
+The complete implementation includes both educational materials and production-ready code. The Jupyter notebook provides a comprehensive walkthrough of multiple linear regression concepts with detailed explanations and visualizations, available at [Mulitple-Linear-Regression.ipynb](https://github.com/giodesi/Multiple_Linear_Regression/blob/main/Mulitple-Linear-Regression.ipynb). The source code for the Streamlit web application can be found in [app.py](https://github.com/giodesi/Multiple_Linear_Regression/blob/main/app.py).
 
 ## **Project Structure**
 
@@ -93,7 +93,7 @@ Additional statistical enhancements could incorporate confidence intervals for p
 
 ## **License**
 
-This project is licensed under the MIT License - see the [LICENSE](https://www.google.com/search?q=LICENSE) file for details. This permissive license allows for commercial use, modification, distribution, and private use while requiring only attribution and limiting liability.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/giodesi/Multiple-Linear-Regression/blob/main/LICENSE) file for details. This permissive license allows for commercial use, modification, distribution, and private use while requiring only attribution and limiting liability.
 
 ## **Attribution**
 
